@@ -47,7 +47,7 @@ function RegisterScreen(props) {
                                 placeholder="Email"
                                 />
                                 <FormValidation 
-                                iconName="key"
+                                iconName="lock"
                                 name="password"
                                 placeholder="Password"
                                 />
